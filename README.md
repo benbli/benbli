@@ -26,7 +26,7 @@ I am a software engineer, who loves building for the web.
 - ✍🏻 I like sharing what I learn on my personal website [benb.li](https://www.benb.li/)
 - You can also 👁️ my work experience [here on my online CV](http://benb.li/public/files/BenLiResume.pdf)
 
-## Tools and Tech at where I work in my most recent role
+## Tools and Tech where I work in my current role
 
 <code>[![React](https://img.shields.io/static/v1?label=&message=React&color=002b36&style=flat&logo=react&logoColor=61DBFB)]()</code>
 <code>[![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=002b36&style=flat&logo=javascript&logoColor=F7DF1E)]()</code>

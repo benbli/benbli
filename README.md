@@ -20,10 +20,10 @@ You seem to have stumbled upon my github profile!
 
 I am a software engineer, who loves building for the web.
 
-- 🧑‍💼 I’m currently a Software Engineer at [Apple](https://www.apple.com/) working with a few teams of awesome *Site Reliability Engineers* who are building some cool tools and developing ways to ensure we have a scalable and reliable platform  
-- 👨‍🎓 I’m currently learning TypeScript and occassionally some Nim
+- 👨🏻‍💻 I’m currently a Software Engineer at [Apple](https://www.apple.com/) working with a few teams of awesome *Site Reliability Engineers* who are building some cool tools and developing ways to ensure we have a scalable and reliable platform  
+- 📚 I’m currently learning TypeScript and occassionally some Nim
 - 💬 Ask me about: web technology, react, javascript/typescript, software development
-- ✍️ I like sharing what I learn on my personal website [benb.li](https://www.benb.li/)
+- ✍🏻 I like sharing what I learn on my personal website [benb.li](https://www.benb.li/)
 - You can also 👁️ my work experience [here on my online CV](http://benb.li/public/files/BenLiResume.pdf)
 
 ## Tools and Tech at where I work in my most recent role

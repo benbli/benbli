@@ -37,7 +37,6 @@ I am a software engineer, who loves building for the web.
 <code>[![Git](https://img.shields.io/static/v1?label=&message=Git&color=002b36&style=flat&logo=git&logoColor=F05032)]()</code>
 <code>[![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&color=002b36&style=flat&logo=visual-studio-code&logoColor=007ACC)]()</code>
 <code>[![Adobe](https://img.shields.io/static/v1?label=&message=Adobe&color=002b36&style=flat&logo=adobe&logoColor=ff0000)]()</code>
-<code>[![Miro](https://img.shields.io/static/v1?label=&message=Miro&color=002b36&style=flat&logo=miro&logoColor=ffffff)]()</code>
 <code>[![npm](https://img.shields.io/static/v1?label=&message=npm&color=002b36&style=flat&logo=npm&logoColor=CB3837)]()</code>
 <code>[![Node.js](https://img.shields.io/static/v1?label=&message=Node.JS&color=002b36&style=flat&logo=node-dot-js&logoColor=339933)]()</code>
 <code>[![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=002b36&style=flat&logo=docker&logoColor=2496ED)]()</code>

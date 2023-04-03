@@ -14,19 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## Hi, I'm Ben Li
-You seem to have stumbled upon my github profile!
 
 [![Linkedin Badge](https://img.shields.io/badge/-benbli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benbli/)](https://www.linkedin.com/in/benbli/) [![Github Badge](https://img.shields.io/badge/-benbli-grey?style=flat&logo=github&logoColor=white&link=https://github.com/benbli/)](https://www.github.com/benbli/) [![Twitter Badge](https://img.shields.io/badge/-bjmcodes-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bjmcodes/)](https://www.twitter.com/bjmcodes/)
 
-I am a software engineer, who loves building for the web.
+- 👨🏻‍💻 I’m currently a Software Engineer at Apple
+- 📚 I’m currently studying Japanese and learning TypeScript
+- ✍🏻 Checkout my portfolio website [benb.li](http://benb.li)
+- You can also see my work experience [here](http://benb.li/public/files/BenLiResume.pdf)
 
-- 👨🏻‍💻 I’m currently a Software Engineer at [Apple](https://www.apple.com/) working with a few teams of awesome instructional developers who are creating training modules to ensure all of our global advisors are experts and can answer questions for all lines of Apple products.  
-- 📚 I’m currently learning TypeScript and occassionally checking out Nim
-- 💬 Ask me about: web technology, react, javascript/typescript, and software development
-- ✍🏻 I like sharing what I learn on my personal website [benb.li](https://www.benb.li/)
-- You can also 👁️ my work experience [here on my online CV](http://benb.li/public/files/BenLiResume.pdf)
-
-## Tools and Tech in my current role
+<!-- ## Tools and Tech in my current role
 
 <code>[![React](https://img.shields.io/static/v1?label=&message=React&color=002b36&style=flat&logo=react&logoColor=61DBFB)]()</code>
 <code>[![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=002b36&style=flat&logo=javascript&logoColor=F7DF1E)]()</code>
@@ -60,3 +56,4 @@ I am a software engineer, who loves building for the web.
 <code>[![npm](https://img.shields.io/static/v1?label=&message=npm&color=002b36&style=flat&logo=npm&logoColor=CB3837)]()</code>
 <code>[![Confluence](https://img.shields.io/static/v1?label=&message=Confluence&color=002b36&style=flat&logo=confluence&logoColor=172B4D)]()</code>
 <code>[![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=002b36&style=flat&logo=amazon-aws&logoColor=#232F3E)]()</code>
+ -->

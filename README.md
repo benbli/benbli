@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Ben Li
 
-[![Linkedin Badge](https://img.shields.io/badge/-benbli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benbli/)](https://www.linkedin.com/in/benbli/) [![Github Badge](https://img.shields.io/badge/-benbli-grey?style=flat&logo=github&logoColor=white&link=https://github.com/benbli/)](https://www.github.com/benbli/) [![Twitter Badge](https://img.shields.io/badge/-bjmcodes-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bjmcodes/)](https://www.twitter.com/bjmcodes/)
+[![Linkedin Badge](https://img.shields.io/badge/-benbli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benbli/)](https://www.linkedin.com/in/benbli/) [![Twitter Badge](https://img.shields.io/badge/-bjmcodes-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/bjmcodes/)](https://www.twitter.com/bjmcodes/)
 
 - 👨🏻‍💻 I’m currently a Software Engineer at Apple
 - 📚 I’m currently studying Japanese and learning TypeScript
